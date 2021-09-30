@@ -9,5 +9,3 @@ installed with:
   pipenv install fastai
   pipenv install pysimplegui
 
-<script src="https://anvil.works/embed.js" async></script>
-<iframe style="width:100%;" data-anvil-embed src="https://VJKVAK3XBKIKRSZW.anvil.app/E5OCO454257ZXDTORU6EC7ME"></iframe>
